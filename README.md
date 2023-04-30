@@ -1,2 +1,1 @@
-# PrepCourese-Henry
-Repositorio Módulo 2 del PrepCourse de Henry.
+Así se modifica un Repositorio en github. PrepCourse de Henry.
